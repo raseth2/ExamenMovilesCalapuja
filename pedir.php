@@ -62,6 +62,6 @@ function optener_imagen() {
 }
 
 print(obtener_titulo());
-//print(optener_imagen());
+print(optener_imagen());
 
   ?>
